@@ -1,0 +1,48 @@
+{
+    "name": "TechSling",
+    "description": "TechSling Weblog is a leading online source of digital news, information and resources.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28392-www-techsling-com.jpg",
+    "tags": [
+        "have api",
+        "news"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/techsling\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TechSling",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28392-www-techsling-com.jpg",
+            "humanURL": "https:\/\/www.techsling.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/techsling-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/techsling-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/techslinger"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/techsling"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.techsling.com"
+        }
+    ]
+}
